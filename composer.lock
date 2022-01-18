@@ -2136,16 +2136,16 @@
         },
         {
             "name": "paragonie/constant_time_encoding",
-            "version": "v2.4.0",
+            "version": "v2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/constant_time_encoding.git",
-                "reference": "f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c"
+                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c",
-                "reference": "f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c",
+                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/9229e15f2e6ba772f0c55dd6986c563b937170a8",
+                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8",
                 "shasum": ""
             },
             "require": {
@@ -2199,7 +2199,7 @@
                 "issues": "https://github.com/paragonie/constant_time_encoding/issues",
                 "source": "https://github.com/paragonie/constant_time_encoding"
             },
-            "time": "2020-12-06T15:14:20+00:00"
+            "time": "2022-01-17T05:32:27+00:00"
         },
         {
             "name": "paragonie/easy-ecc",
@@ -2381,16 +2381,16 @@
         },
         {
             "name": "paragonie/paseto",
-            "version": "v2.2.0",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/paseto.git",
-                "reference": "46d19c106305c7cf30af029e48786bf269f2e754"
+                "reference": "a0134f9501a132192136886bf85f8ce3368e1787"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/paseto/zipball/46d19c106305c7cf30af029e48786bf269f2e754",
-                "reference": "46d19c106305c7cf30af029e48786bf269f2e754",
+                "url": "https://api.github.com/repos/paragonie/paseto/zipball/a0134f9501a132192136886bf85f8ce3368e1787",
+                "reference": "a0134f9501a132192136886bf85f8ce3368e1787",
                 "shasum": ""
             },
             "require": {
@@ -2426,9 +2426,9 @@
             "description": "Platform-Agnostic Security Tokens",
             "support": {
                 "issues": "https://github.com/paragonie/paseto/issues",
-                "source": "https://github.com/paragonie/paseto/tree/v2.2.0"
+                "source": "https://github.com/paragonie/paseto/tree/v2.3.0"
             },
-            "time": "2021-10-27T05:47:07+00:00"
+            "time": "2022-01-17T05:42:51+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -4822,5 +4822,5 @@
         "php": ">=5.3.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }
