@@ -2136,16 +2136,16 @@
         },
         {
             "name": "paragonie/constant_time_encoding",
-            "version": "v2.4.0",
+            "version": "v2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/constant_time_encoding.git",
-                "reference": "f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c"
+                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c",
-                "reference": "f34c2b11eb9d2c9318e13540a1dbc2a3afbd939c",
+                "url": "https://api.github.com/repos/paragonie/constant_time_encoding/zipball/9229e15f2e6ba772f0c55dd6986c563b937170a8",
+                "reference": "9229e15f2e6ba772f0c55dd6986c563b937170a8",
                 "shasum": ""
             },
             "require": {
@@ -2199,20 +2199,20 @@
                 "issues": "https://github.com/paragonie/constant_time_encoding/issues",
                 "source": "https://github.com/paragonie/constant_time_encoding"
             },
-            "time": "2020-12-06T15:14:20+00:00"
+            "time": "2022-01-17T05:32:27+00:00"
         },
         {
             "name": "paragonie/easy-ecc",
-            "version": "v0.5.0",
+            "version": "v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/easy-ecc.git",
-                "reference": "63d8e323dbbb651013dfa04fbf42191e7100e107"
+                "reference": "53d6a1c484e6e61e59e6c78718f5ffaf1be76f72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/easy-ecc/zipball/63d8e323dbbb651013dfa04fbf42191e7100e107",
-                "reference": "63d8e323dbbb651013dfa04fbf42191e7100e107",
+                "url": "https://api.github.com/repos/paragonie/easy-ecc/zipball/53d6a1c484e6e61e59e6c78718f5ffaf1be76f72",
+                "reference": "53d6a1c484e6e61e59e6c78718f5ffaf1be76f72",
                 "shasum": ""
             },
             "require": {
@@ -2254,7 +2254,7 @@
                 "issues": "https://github.com/paragonie/ionizer/issues",
                 "source": "https://github.com/paragonie/ionizer"
             },
-            "time": "2021-07-31T19:21:46+00:00"
+            "time": "2022-06-02T20:18:08+00:00"
         },
         {
             "name": "paragonie/halite",
@@ -2381,16 +2381,16 @@
         },
         {
             "name": "paragonie/paseto",
-            "version": "v2.2.0",
+            "version": "v2.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/paseto.git",
-                "reference": "46d19c106305c7cf30af029e48786bf269f2e754"
+                "reference": "98961efecbd9b109222db2dde9093ef2849fb2c0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/paseto/zipball/46d19c106305c7cf30af029e48786bf269f2e754",
-                "reference": "46d19c106305c7cf30af029e48786bf269f2e754",
+                "url": "https://api.github.com/repos/paragonie/paseto/zipball/98961efecbd9b109222db2dde9093ef2849fb2c0",
+                "reference": "98961efecbd9b109222db2dde9093ef2849fb2c0",
                 "shasum": ""
             },
             "require": {
@@ -2398,7 +2398,7 @@
                 "ext-json": "*",
                 "ext-openssl": "*",
                 "paragonie/constant_time_encoding": "^2",
-                "paragonie/easy-ecc": "^0.5|^1",
+                "paragonie/easy-ecc": "^1",
                 "paragonie/sodium_compat": "^1.16",
                 "php": "^7.1|^8",
                 "phpseclib/phpseclib": "^2"
@@ -2426,9 +2426,9 @@
             "description": "Platform-Agnostic Security Tokens",
             "support": {
                 "issues": "https://github.com/paragonie/paseto/issues",
-                "source": "https://github.com/paragonie/paseto/tree/v2.2.0"
+                "source": "https://github.com/paragonie/paseto/tree/v2.4.2"
             },
-            "time": "2021-10-27T05:47:07+00:00"
+            "time": "2022-06-02T20:29:47+00:00"
         },
         {
             "name": "paragonie/random_compat",
@@ -2482,16 +2482,16 @@
         },
         {
             "name": "paragonie/sodium_compat",
-            "version": "v1.17.0",
+            "version": "v1.17.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/sodium_compat.git",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321"
+                "reference": "ac994053faac18d386328c91c7900f930acadf1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/c59cac21abbcc0df06a3dd18076450ea4797b321",
-                "reference": "c59cac21abbcc0df06a3dd18076450ea4797b321",
+                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/ac994053faac18d386328c91c7900f930acadf1e",
+                "reference": "ac994053faac18d386328c91c7900f930acadf1e",
                 "shasum": ""
             },
             "require": {
@@ -2562,9 +2562,9 @@
             ],
             "support": {
                 "issues": "https://github.com/paragonie/sodium_compat/issues",
-                "source": "https://github.com/paragonie/sodium_compat/tree/v1.17.0"
+                "source": "https://github.com/paragonie/sodium_compat/tree/v1.17.1"
             },
-            "time": "2021-08-10T02:43:50+00:00"
+            "time": "2022-03-23T19:32:04+00:00"
         },
         {
             "name": "php-di/invoker",
@@ -2694,16 +2694,16 @@
         },
         {
             "name": "phpseclib/phpseclib",
-            "version": "2.0.35",
+            "version": "2.0.37",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpseclib/phpseclib.git",
-                "reference": "4e16cf3f5f927a7d3f5317820af795c0366c0420"
+                "reference": "c812fbb4d6b4d7f30235ab7298a12f09ba13b37c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/4e16cf3f5f927a7d3f5317820af795c0366c0420",
-                "reference": "4e16cf3f5f927a7d3f5317820af795c0366c0420",
+                "url": "https://api.github.com/repos/phpseclib/phpseclib/zipball/c812fbb4d6b4d7f30235ab7298a12f09ba13b37c",
+                "reference": "c812fbb4d6b4d7f30235ab7298a12f09ba13b37c",
                 "shasum": ""
             },
             "require": {
@@ -2783,7 +2783,7 @@
             ],
             "support": {
                 "issues": "https://github.com/phpseclib/phpseclib/issues",
-                "source": "https://github.com/phpseclib/phpseclib/tree/2.0.35"
+                "source": "https://github.com/phpseclib/phpseclib/tree/2.0.37"
             },
             "funding": [
                 {
@@ -2799,7 +2799,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-11-28T23:30:39+00:00"
+            "time": "2022-04-04T04:57:45+00:00"
         },
         {
             "name": "psr/container",
@@ -4822,5 +4822,5 @@
         "php": ">=5.3.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }
